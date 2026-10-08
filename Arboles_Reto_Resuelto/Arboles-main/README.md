@@ -4,11 +4,11 @@ Estructura de Datos, UTA FISEI, Software Nivel III. Docente: José Rubén Caiza 
 
 ## Integrantes
 
-| Integrante | Rol | Usuario de GitHub |
-| --- | --- | --- |
-| Josue Camacho | Coordinación y código | [COMPLETAR] |
-| Mateo Chalco | Dinámica y preguntas | [COMPLETAR] |
-| Luis Silva | Diapositivas, repositorio y evidencia | [COMPLETAR] |
+| Integrante    | Rol          |
+| ------------- | ------------ |
+| Josue Camacho | Coordinación |
+| Mateo Chalco  | Código       |
+| Luis Silva    | Revisión     |
 
 ## Contenido de la exposición
 
@@ -78,27 +78,27 @@ javac -encoding UTF-8 -d out (Get-ChildItem -Recurse src -Filter *.java).FullNam
 
 Ejecutar:
 
-| Qué | Comando |
-| --- | --- |
-| Demostración | `java -cp out arboles.app.Main` |
-| Menú interactivo | `java -cp out arboles.app.MainInteractivo` |
-| Reto | `java -cp out reto.MainReto` |
-| Reto interactivo | `java -cp out reto.MainRetoInteractivo` |
+| Qué               | Comando                                       |
+| ----------------- | --------------------------------------------- |
+| Demostración      | `java -cp out arboles.app.Main`               |
+| Menú interactivo  | `java -cp out arboles.app.MainInteractivo`    |
+| Reto              | `java -cp out reto.MainReto`                  |
+| Reto interactivo  | `java -cp out reto.MainRetoInteractivo`       |
 | Solución del reto | `java -cp out reto.solucion.MainRetoSolucion` |
-| Pruebas | `java -cp out reto.pruebas.PruebasArbol` |
+| Pruebas           | `java -cp out reto.pruebas.PruebasArbol`      |
 
 En VS Code también se puede abrir cualquiera de esas clases y usar Run.
 
 ## Evidencia y enlaces
 
-| Elemento | Enlace o ruta |
-| --- | --- |
-| Informe en Canva | `[PEGAR ENLACE]` |
-| Diapositivas en Canva | `[PEGAR ENLACE]` |
-| Diapositivas en PDF | `presentacion/Introduccion_a_los_arboles_Grupo_1.pdf` |
-| Actividad interactiva (Kahoot o Quizizz) | `[PEGAR ENLACE]` |
-| Banco de preguntas | `evidencia/banco_preguntas.md` |
-| Capturas de la actividad | `evidencia/capturas_kahoot/` |
+| Elemento                                 | Enlace o ruta                                         |
+| ---------------------------------------- | ----------------------------------------------------- |
+| Informe en Canva                         | `[PEGAR ENLACE]`                                      |
+| Diapositivas en Canva                    | `[PEGAR ENLACE]`                                      |
+| Diapositivas en PDF                      | `presentacion/Introduccion_a_los_arboles_Grupo_1.pdf` |
+| Actividad interactiva (Kahoot o Quizizz) | `[PEGAR ENLACE]`                                      |
+| Banco de preguntas                       | `evidencia/banco_preguntas.md`                        |
+| Capturas de la actividad                 | `evidencia/capturas_kahoot/`                          |
 
 ## Participación
 
